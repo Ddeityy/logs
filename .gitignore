@@ -1,0 +1,6 @@
+/build
+/dist
+/LIST.txt
+/logs
+/logs.spec
+/__pycache__
